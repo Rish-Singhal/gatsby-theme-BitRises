@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-theme-jam-example",
-  "author": "Jason Lengstorf <jason@gatsbyjs.com>",
+  "name": "gatsby-theme-BitRises",
+  "author": "Rishabh Singhal <zzxy334@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jlengstorf/gatsby-theme-jam-example.git"
+    "url": "https://github.com/rish-singhal/gatsby-theme-BitRises.git"
   },
   "version": "1.0.1",
   "main": "index.js",
